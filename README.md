@@ -143,7 +143,7 @@ Add images and other contents using CSS record a screenshot of it.
 ![output](images/coverpg.png)
 
 ### HTML Validator:
-![output](images/htmlcover.png)
+![output](images/coverhtml.png)
 
 ## Result:
 Thus a website to display the cover page design of a book was successfully created.
